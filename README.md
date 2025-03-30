@@ -1,3 +1,13 @@
+# How to use
+
+```shell
+conda create -n open-webui python=3.11
+conda activate openweb-ui
+pip install open-webui
+open-webui serve
+```
+Then you can access it at `https://localhost:8080`
+
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
